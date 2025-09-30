@@ -1,6 +1,10 @@
 res://scenes/test/test_scene_default.tscn
 res://Tilesets/game_tile_set.tres
-res://scenes/characters/player/player.tscn
-res://scenes/test/test_scene_player.tscn
 res://scenes/test/test_scene_tile_map.tscn
+res://scenes/test/test_scene_player.tscn
+res://scenes/characters/player/player.tscn
 res://scenes/characters/player/idle_state.gd
+res://scenes/characters/player/idle_stat.gd
+res://scenes/characters/player/id.gd
+res://scenes/characters/player/walk_state.gd
+res://scenes/characters/player/player.gd
